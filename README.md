@@ -91,7 +91,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Leeoasis/resort-booking-backend-app.git
+  git clone https://github.com/KUBAHO3/resort-booking-backend-app.git
 ```
 
 To install dependencies, run:
@@ -132,7 +132,7 @@ To run tests, run the following command:
 # 💻 React App <a name="react-app"></a>
 
 ```sh
-  https://github.com/Leeoasis/resort-booking-frontend-app
+  https://github.com/KUBAHO3/resort-booking-frontend-app
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -170,7 +170,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Leeoasis/resort-booking-backend-app/issues).
+Feel free to check the [issues page](https://github.com/KUBAHO3/resort-booking-backend-app/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
